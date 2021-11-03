@@ -9,3 +9,5 @@ https://imagej.nih.gov/ij/plugins/mbf/
 
 Isophotcontour2 - G Landini at University of Birmingham
 https://blog.bham.ac.uk/intellimic/g-landini-software/
+
+A sample image is provided for testing purposes. Channel 1 is a nuclear stain, channel 2 is a mitochondrial stain, channel 3 is an ER stain. 
